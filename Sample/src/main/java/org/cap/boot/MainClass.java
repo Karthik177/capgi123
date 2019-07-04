@@ -12,6 +12,7 @@ public class MainClass {
 	private static void display() {
 		
 			System.out.println("Hello World !");
+			System.out.println("Hai !");
 		
 		
 	}
